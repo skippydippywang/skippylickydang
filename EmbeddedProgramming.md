@@ -4,7 +4,6 @@ nav_order: 2
 ---
 
 # Embedded Programming
-{: .no_toc }
 
 I was introduced to WOKWI which is an online electronic simulator. In WOKWI, I was able to porgram different microcontrollers with their repective programming languages to simulate circuits. For my first excersise I programmed an ESP32-C3 in C++ language. For the next 2 excersies, instead of using C++ to program, I used micropython to progam the ESP32-C3 & the RP2040. For Excersie 4 I was tasked to use Generative AI chat to create a program for the ESP32-C3 to read input values from a potentiometer and use it to control the intensity of an LED. For Excersie 5 I was tasked to use Generative AI chat to create a program for the Raspberry Pi Pico to control a neopixel ring display using a pushbutton.
 

@@ -98,6 +98,8 @@ void loop() {
 ```
 
 
+
+
 For My Challenge exersice 2, I was tasked to develop an automated sanitizer dispensing unit which comprises of a Pi Pico board, an ultrasonic sensor, a servo motor and an LED indicator. When the user places his hand(s) at a distance of < 3 cm from the ultrasonic sensor, the servo motor will be activated to dispense the sanitizer lotion. The LED will light up at the same time to indicate that sanitizer lotion is being dispensed. I then used GEN AI to create the code and simulate it in WokWi.
 The prompt that I use was " Write me MicroPython code for a Pi Pico, When an HC-SR04 sensor detects an object closer than 3cm, rotate a servo motor and turn on an LED. Return servo to 0 and turn LED off after dispensing.".
 

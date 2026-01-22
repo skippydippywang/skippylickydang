@@ -1,6 +1,6 @@
 ---
 title: Embedded Programming
-nav_order: 1
+nav_order: 2
 ---
 
 # Embedded Programming
@@ -160,12 +160,6 @@ while True:
 
 
 
-
-
-
-
-
-
 ```yaml
 collections:
   tests:
@@ -182,8 +176,3 @@ just_the_docs:
     tutorials:
       name: Tutorials
 ```
-
-When *all* your pages are in a single collection, its name is not displayed.
-
-The navigation for each collection is a separate name space for page titles: a page in one collection cannot be a child of a page in a different collection, or of a normal page.
-
